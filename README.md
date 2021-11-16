@@ -60,7 +60,15 @@ MEDIUM
 
 ----------------------------
 
-Probability & Stream processing
+Stream processing & Sorting & Heap & Two Pointers
+
+Compute running median of a sequence of numbers
+<br>
+HARD https://docs.google.com/document/d/1Eqpg00jqSXdkirde_syFUKWE_0Lwg29j-3e7aWCMc_w/edit
+
+----------------------------
+
+Stream processing & Probability
 
 Random from infinite stream with uniform probability
 <br>
