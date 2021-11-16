@@ -123,3 +123,11 @@ MEDIUM https://docs.google.com/document/d/1quFNUoYf89u1X790EHDwQl2nCetRfoIVdKNzd
 Shortest Possible Path in a Maze
 <br>
 EASY https://docs.google.com/document/d/1Eg5_gfQ_WA31NcaVTvbjtg2RnUiCxajltqV4hUEh6IQ/edit
+
+----------------------------
+
+Graph & DFS & Bellman Ford
+
+Find Arbitrage Opportunity
+<br>
+HARD https://docs.google.com/document/d/1WcqP_Z0ckTYpANGOqVh97vgaN860DhDIz9l9HoJ-5PE/edit
