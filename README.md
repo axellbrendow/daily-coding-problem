@@ -98,6 +98,10 @@ Edit Distance
 <br>
 HARD https://docs.google.com/document/d/1GTaBwvNs5A7-PHP0huaurgm6UZLj87I1UvbdoiLhpMc/edit
 
+Palindrome with Fewest Number of Insertions
+<br>
+MEDIUM https://docs.google.com/document/d/1XMTrT6Cay7vy-nId0BOBL3dBEqPdUjCMexbtUcx1zEs/edit
+
 ----------------------------
 
 String & Trie & Dynamic Programming & Hash Table & Memoization
