@@ -4,6 +4,14 @@ Problems from https://www.dailycodingproblem.com/
 
 ----------------------------
 
+Array & Sorting
+
+Segregate array RGB
+<br>
+HARD https://docs.google.com/document/d/1UUKcalnbwuwCqqX3-BMPnOJltlu3chzi3cz-hYalPa0/edit
+
+----------------------------
+
 Array & Set
 
 Two numbers that add up to k
