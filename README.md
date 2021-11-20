@@ -48,6 +48,14 @@ HARD https://docs.google.com/document/d/1iXh7V-6894dLyuloXUkVSt9EZVhHxxi-YI8Jblr
 
 ----------------------------
 
+Recursion & Backtracking & Bit Manipulation
+
+Generate Power Set
+<br>
+https://docs.google.com/document/d/1Q7xzRBweAu35DduNOhRiVf2KhpYb_a-Sk9DhQlEpqtc/edit
+
+----------------------------
+
 Recursion & Dynamic Programming & Greedy
 
 Largest sum of non-adjacent numbers
