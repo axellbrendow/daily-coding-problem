@@ -150,6 +150,14 @@ EASY https://docs.google.com/document/d/1mnGKhudWq6PZLBPnbpesIpA1rnFVhe5bXsUv3AK
 
 ----------------------------
 
+Matrix & Recursion/Backtracking
+
+N Queens Num of Possible Rearrengements
+<br>
+HARD https://docs.google.com/document/d/1xSjmfY4_Orr6xkmOOtW5TISRy7A0sETfb3qxaUAwv7g/edit
+
+----------------------------
+
 Matrix & Recursion & Dynamic Programming
 
 Paint houses with different colors
