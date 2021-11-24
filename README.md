@@ -20,6 +20,16 @@ EASY https://docs.google.com/document/d/18kkJ9b8gRS0KlhaDCZ2CnqfTLUHRo_h7YxXpZKE
 
 ----------------------------
 
+Array & Bit Manipulation
+
+Single Number II
+<br>
+HARD https://docs.google.com/document/d/18kkJ9b8gRS0KlhaDCZ2CnqfTLUHRo_h7YxXpZKEmpA8/edit
+<br>
+https://leetcode.com/problems/single-number-ii/
+
+----------------------------
+
 Tree
 
 Unival tree
