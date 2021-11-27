@@ -160,6 +160,10 @@ LogRecorder
 <br>
 EASY https://docs.google.com/document/d/16QXfXUHrdgyczp-OiATvEaR82WOeDNEWbx7UnQ4k7FE/edit
 
+MaxStack
+<br>
+EASY https://docs.google.com/document/d/1fcbNkXjq9feiURiK6__T32s_sKehI9y2NMMPXeq6_T8/edit
+
 ----------------------------
 
 Stack
