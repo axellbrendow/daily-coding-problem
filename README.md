@@ -20,6 +20,14 @@ EASY https://docs.google.com/document/d/18kkJ9b8gRS0KlhaDCZ2CnqfTLUHRo_h7YxXpZKE
 
 ----------------------------
 
+Array & Dynamic Programming
+
+Subset sum
+<br>
+HARD https://docs.google.com/document/d/13RvqTjxhWbSaH4M7DbeAG2HfTVEmxk5mH4N5CdfjR28/edit
+
+----------------------------
+
 Array & Bit Manipulation
 
 Single Number II
