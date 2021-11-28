@@ -12,6 +12,14 @@ HARD https://docs.google.com/document/d/1UUKcalnbwuwCqqX3-BMPnOJltlu3chzi3cz-hYa
 
 ----------------------------
 
+Array & Mergesort & Fenwick Tree
+
+Count Inversions
+<br>
+MEDIUM https://docs.google.com/document/d/1zkiWltcwUgtsQmwnBXZRPmm7a67jULKET_AlNBrumww/edit
+
+----------------------------
+
 Array & Set
 
 Two numbers that add up to k
