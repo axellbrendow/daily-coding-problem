@@ -176,6 +176,8 @@ EASY https://docs.google.com/document/d/1fcbNkXjq9feiURiK6__T32s_sKehI9y2NMMPXeq
 
 Stack
 
+Valid Parentheses
+<br>
 EASY https://docs.google.com/document/d/1mnGKhudWq6PZLBPnbpesIpA1rnFVhe5bXsUv3AKHbuI/edit
 
 ----------------------------
