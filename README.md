@@ -152,6 +152,12 @@ Palindrome with Fewest Number of Insertions
 <br>
 MEDIUM https://docs.google.com/document/d/1XMTrT6Cay7vy-nId0BOBL3dBEqPdUjCMexbtUcx1zEs/edit
 
+Longest Palindromic Substring
+<br>
+https://www.lintcode.com/problem/200/description
+<br>
+MEDIUM https://docs.google.com/document/d/1SbD0UvXt8lMX6ev4vrAPasQauNED6WXvssWqXI7VZ3o/edit
+
 ----------------------------
 
 String & Trie & Dynamic Programming & Hash Table & Memoization
