@@ -34,6 +34,10 @@ Subset sum
 <br>
 HARD https://docs.google.com/document/d/13RvqTjxhWbSaH4M7DbeAG2HfTVEmxk5mH4N5CdfjR28/edit
 
+Best Time to Buy and Sell Stock
+<br>
+EASY https://docs.google.com/document/d/1Z5jU_RQZmb1id3dPQA2yAMscZ8r2K69pA2eL-rNyUkQ/edit
+
 ----------------------------
 
 Array & Bit Manipulation
