@@ -60,6 +60,12 @@ Locking binary tree
 <br>
 MEDIUM https://docs.google.com/document/d/1mkl0dP3R_ZOiUBm7MSm_21XhXfdeMROYiAiE9ufrcaE/edit
 
+Construct Binary Tree from Preorder and Inorder Traversal
+<br>
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+<br>
+MEDIUM https://docs.google.com/document/d/1ISaHWQZT7peTJrYZNonTrZ8eA75NJM9AMODu38yNBGA/edit
+
 ----------------------------
 
 Binary Search Tree
