@@ -38,6 +38,12 @@ Best Time to Buy and Sell Stock
 <br>
 EASY https://docs.google.com/document/d/1Z5jU_RQZmb1id3dPQA2yAMscZ8r2K69pA2eL-rNyUkQ/edit
 
+Maximum Sum of any Contiguous Subarray
+<br>
+https://leetcode.com/problems/maximum-subarray/
+<br>
+EASY https://docs.google.com/document/d/1BNwJsRQlnmAtG5YGPj2fjjf1kVfzWrlMFwA4W0-LJ6g/edit
+
 ----------------------------
 
 Array & Bit Manipulation
