@@ -72,6 +72,10 @@ https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-tr
 <br>
 MEDIUM https://docs.google.com/document/d/1ISaHWQZT7peTJrYZNonTrZ8eA75NJM9AMODu38yNBGA/edit
 
+Arithmetic Expression as Binary Tree
+<br>
+EASY https://docs.google.com/document/d/1JVoj4xxl1cEI-uoYRUg1MLT57xik1ids5CsqyZZP-rE/edit
+
 ----------------------------
 
 Binary Search Tree
