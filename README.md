@@ -128,6 +128,10 @@ Phi value using Monte Carlo
 <br>
 MEDIUM
 
+Shuffle Deck of Cards
+<br>
+MEDIUM https://docs.google.com/document/d/1WC4esJyT8gIIcqusoz8EnajaLMgqMurXIIzg9fJ7hMk/edit
+
 ----------------------------
 
 Stream processing & Sorting & Heap & Two Pointers
