@@ -192,6 +192,16 @@ MEDIUM https://docs.google.com/document/d/1I1RDKSbtRYF5oPGs7aUPHm2f-GsgW45fqforc
 
 ----------------------------
 
+Design & Stack & Queue
+
+Implement Queue using Stacks
+<br>
+https://leetcode.com/problems/implement-queue-using-stacks/
+<br>
+MEDIUM https://docs.google.com/document/d/1AjjQdxDyJM_W7Mjxg2UKFht5X2QF7Ciq1VUuO13C6Ys/edit
+
+----------------------------
+
 Design & Stack
 
 LogRecorder
