@@ -86,7 +86,17 @@ MEDIUM https://docs.google.com/document/d/1DGQbR1uTFzi1EwMvHNH2dsVmh2aoNOsxBxbrG
 
 ----------------------------
 
-Design & LinkedList & XOR
+Design & Doubly Linked List & Hash Table
+
+LRU Cache
+<br>
+https://leetcode.com/problems/lru-cache/
+<br>
+HARD https://docs.google.com/document/d/1A3Y1KeZoSXaeSkvmaV5sOFFEfETz9NrB1-KTyo5nS1Q/edit
+
+----------------------------
+
+Design & Linked List & XOR
 
 XOR Linked List
 <br>
