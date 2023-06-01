@@ -2,7 +2,7 @@
 
 Problems from https://www.dailycodingproblem.com/
 
-----------------------------
+---
 
 Array & Sorting
 
@@ -10,7 +10,7 @@ Segregate array RGB
 <br>
 HARD https://docs.google.com/document/d/1UUKcalnbwuwCqqX3-BMPnOJltlu3chzi3cz-hYalPa0/edit
 
-----------------------------
+---
 
 Array & Mergesort & Fenwick Tree
 
@@ -18,7 +18,7 @@ Count Inversions
 <br>
 MEDIUM https://docs.google.com/document/d/1zkiWltcwUgtsQmwnBXZRPmm7a67jULKET_AlNBrumww/edit
 
-----------------------------
+---
 
 Array & Set
 
@@ -26,7 +26,7 @@ Two numbers that add up to k
 <br>
 EASY https://docs.google.com/document/d/18kkJ9b8gRS0KlhaDCZ2CnqfTLUHRo_h7YxXpZKEmpA8/edit
 
-----------------------------
+---
 
 Array & Dynamic Programming
 
@@ -44,7 +44,7 @@ https://leetcode.com/problems/maximum-subarray/
 <br>
 EASY https://docs.google.com/document/d/1BNwJsRQlnmAtG5YGPj2fjjf1kVfzWrlMFwA4W0-LJ6g/edit
 
-----------------------------
+---
 
 Array & Bit Manipulation
 
@@ -54,7 +54,7 @@ HARD https://docs.google.com/document/d/18kkJ9b8gRS0KlhaDCZ2CnqfTLUHRo_h7YxXpZKE
 <br>
 https://leetcode.com/problems/single-number-ii/
 
-----------------------------
+---
 
 Tree
 
@@ -76,7 +76,7 @@ Arithmetic Expression as Binary Tree
 <br>
 EASY https://docs.google.com/document/d/1JVoj4xxl1cEI-uoYRUg1MLT57xik1ids5CsqyZZP-rE/edit
 
-----------------------------
+---
 
 Binary Search Tree
 
@@ -84,7 +84,17 @@ Find Second Largest Node in BST
 <br>
 MEDIUM https://docs.google.com/document/d/1DGQbR1uTFzi1EwMvHNH2dsVmh2aoNOsxBxbrGkGkLIc/edit
 
-----------------------------
+---
+
+Design Patterns
+
+Java Visitor Pattern in Trees
+<br>
+https://www.hackerrank.com/challenges/java-vistor-pattern/problem
+<br>
+MEDIUM
+
+---
 
 Design & Doubly Linked List & Hash Table
 
@@ -94,7 +104,7 @@ https://leetcode.com/problems/lru-cache/
 <br>
 HARD https://docs.google.com/document/d/1A3Y1KeZoSXaeSkvmaV5sOFFEfETz9NrB1-KTyo5nS1Q/edit
 
-----------------------------
+---
 
 Design & Linked List & XOR
 
@@ -102,7 +112,7 @@ XOR Linked List
 <br>
 HARD https://docs.google.com/document/d/1iXh7V-6894dLyuloXUkVSt9EZVhHxxi-YI8JblrCmQc/edit
 
-----------------------------
+---
 
 Recursion & Backtracking & Bit Manipulation
 
@@ -110,7 +120,7 @@ Generate Power Set
 <br>
 https://docs.google.com/document/d/1Q7xzRBweAu35DduNOhRiVf2KhpYb_a-Sk9DhQlEpqtc/edit
 
-----------------------------
+---
 
 Recursion & Dynamic Programming & Greedy
 
@@ -122,7 +132,7 @@ Decode Ways
 <br>
 MEDIUM https://docs.google.com/document/d/1FZW_3eeApIw1nm5P0rUpk4roeEZodeZdS-_K6tyGK7Y/edit
 
-----------------------------
+---
 
 Threading & Heap
 
@@ -130,7 +140,7 @@ Job scheduler
 <br>
 MEDIUM https://docs.google.com/document/d/1Iey0V1qMA4oYoEbeW57FWhW-qvIqwQyZker-Kop3eRA/edit
 
-----------------------------
+---
 
 Math & Random numbers
 
@@ -142,7 +152,7 @@ Shuffle Deck of Cards
 <br>
 MEDIUM https://docs.google.com/document/d/1WC4esJyT8gIIcqusoz8EnajaLMgqMurXIIzg9fJ7hMk/edit
 
-----------------------------
+---
 
 Stream processing & Sorting & Heap & Two Pointers
 
@@ -150,7 +160,7 @@ Compute running median of a sequence of numbers
 <br>
 HARD https://docs.google.com/document/d/1Eqpg00jqSXdkirde_syFUKWE_0Lwg29j-3e7aWCMc_w/edit
 
-----------------------------
+---
 
 Stream processing & Probability
 
@@ -158,7 +168,7 @@ Random from infinite stream with uniform probability
 <br>
 MEDIUM https://docs.google.com/document/d/1nztRYdD4VZL7rDiGUmII5yVqO_ILPqZ7wgUU-XSCY40/edit
 
-----------------------------
+---
 
 String
 
@@ -174,7 +184,7 @@ Run-length encoding
 <br>
 EASY https://docs.google.com/document/d/1MVKaU14umdU9zVVRpdPJ2h_2vb4gI-AQOCRpyeMEtu8/edit
 
-----------------------------
+---
 
 String & Dynamic Programming
 
@@ -192,7 +202,7 @@ https://www.lintcode.com/problem/200/description
 <br>
 MEDIUM https://docs.google.com/document/d/1SbD0UvXt8lMX6ev4vrAPasQauNED6WXvssWqXI7VZ3o/edit
 
-----------------------------
+---
 
 String & Trie & Dynamic Programming & Hash Table & Memoization
 
@@ -200,7 +210,7 @@ Word break
 <br>
 MEDIUM https://docs.google.com/document/d/1I1RDKSbtRYF5oPGs7aUPHm2f-GsgW45fqforcoTFnZo/edit
 
-----------------------------
+---
 
 Design & Stack & Queue
 
@@ -210,7 +220,7 @@ https://leetcode.com/problems/implement-queue-using-stacks/
 <br>
 MEDIUM https://docs.google.com/document/d/1AjjQdxDyJM_W7Mjxg2UKFht5X2QF7Ciq1VUuO13C6Ys/edit
 
-----------------------------
+---
 
 Design & Stack
 
@@ -222,7 +232,7 @@ MaxStack
 <br>
 EASY https://docs.google.com/document/d/1fcbNkXjq9feiURiK6__T32s_sKehI9y2NMMPXeq6_T8/edit
 
-----------------------------
+---
 
 Stack
 
@@ -230,7 +240,7 @@ Valid Parentheses
 <br>
 EASY https://docs.google.com/document/d/1mnGKhudWq6PZLBPnbpesIpA1rnFVhe5bXsUv3AKHbuI/edit
 
-----------------------------
+---
 
 Matrix & Recursion/Backtracking
 
@@ -238,7 +248,7 @@ N Queens Num of Possible Rearrengements
 <br>
 HARD https://docs.google.com/document/d/1xSjmfY4_Orr6xkmOOtW5TISRy7A0sETfb3qxaUAwv7g/edit
 
-----------------------------
+---
 
 Matrix & Recursion & Dynamic Programming
 
@@ -250,7 +260,7 @@ Shortest Possible Path in a Maze
 <br>
 EASY https://docs.google.com/document/d/1Eg5_gfQ_WA31NcaVTvbjtg2RnUiCxajltqV4hUEh6IQ/edit
 
-----------------------------
+---
 
 Graph & DFS
 
@@ -258,7 +268,7 @@ Reconstruct Itinerary
 <br>
 HARD https://docs.google.com/document/d/1LxFSfPXpHg6mQQlb1vn9B7tmpw3bQlvaP1kNDz9nwkk/edit
 
-----------------------------
+---
 
 Graph & DFS & Bellman Ford
 
