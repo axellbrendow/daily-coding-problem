@@ -2,6 +2,8 @@
 
 Problems from https://www.dailycodingproblem.com/
 
+I also have the [leetcode](https://github.com/axellbrendow/leetcode) repository with more questions.
+
 ---
 
 Array & Sorting
