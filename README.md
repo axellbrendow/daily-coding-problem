@@ -4,7 +4,7 @@ Problems from https://www.dailycodingproblem.com/
 
 I also have the [leetcode](https://github.com/axellbrendow/leetcode) repository with more questions.
 
-Other sites that I recommend: [AlgoMonster](https://algo.monster/problems/stats) and [Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-prep/).
+Other sites that I recommend: [LintCode](https://www.lintcode.com/), [AlgoMonster](https://algo.monster/problems/stats) and [Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-prep/).
 
 Use the JVM flag `-enableassertions` or `-ea` to run Java files. The VSCode config in this repository already includes this flag when running files through F5 key or run button.
 
