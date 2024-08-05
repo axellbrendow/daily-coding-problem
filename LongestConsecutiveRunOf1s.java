@@ -10,19 +10,22 @@ For example, given 156, you should return 3.
 public class LongestConsecutiveRunOf1s {
   public static int longestConsecutiveRunOf1s(int n) {
     int longestLength = 0, length = 0;
-    while (n > 0) {
+    while (n != 0) {
       if ((n & 1) == 1) {
         length++;
         longestLength = Math.max(longestLength, length);
       } else {
         length = 0;
       }
-      n >>= 1;
+      // >>> interprets the number as unsigned.
+      // If you use -1 >> 1, the result is -1 in Java
+      n >>>= 1;
     }
     return longestLength;
   }
 
   public static void main(String[] args) {
+    assert longestConsecutiveRunOf1s(-1) == 32;
     assert longestConsecutiveRunOf1s(156) == 3;
   }
 }
